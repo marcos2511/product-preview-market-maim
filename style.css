@@ -1,0 +1,78 @@
+/*
+
+### Primary
+
+- Darkcyan: hsl(158, 36%, 37%);
+- Cream: hsl(30, 38%, 92%);
+
+### Neutral
+
+- Verydark blue:hsl(212, 21%, 14%)
+- Darkgrayish blue: hsl(228, 12%, 48%);
+- White: hsl(0, 0%, 100%);
+
+*/
+div{
+    display:inline-block;
+}
+#imagem{
+    height: 450px;
+    width: 350px;
+    margin-left: 350px;
+    border-radius: 20px 0px 0px 20px;
+}
+
+
+.conteiner{
+    background-color: hsl(30, 38%, 92%);
+    height: 450px;
+    width: 350px;
+    border-radius:0px 20px 20px 0px;
+}
+#tipo{
+    color: hsl(228, 12%, 48%);
+    margin-left: 2rem;
+}
+#name{
+    margin-left: 2rem;
+}
+
+#descricao{
+    color:hsl(228, 12%, 48%);
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+#btn{
+    background-color:hsl(158, 36%, 37%);
+   width: 200%;
+   height: 3rem;
+   margin-left: 1rem;
+   margin-right: 2rem;
+   margin-bottom: 3rem;
+   border-radius: 1rem;
+}
+
+#valor{
+    color:hsl(158, 36%, 37%);
+    margin-top: 5rem;
+    width: 7rem;
+    height: 2rem;
+    margin-left: 2rem;
+
+    
+} 
+#desconto{
+    color:hsl(228, 12%, 48%);;
+    margin-left: 9rem;
+    height: 2rem;
+    width: 4rem;
+    margin-top: -3rem;
+    
+}
+.attribution{
+    margin-left: 2rem;
+    margin-bottom:2rem;
+}
+
+
+    
